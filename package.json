@@ -140,7 +140,7 @@
     "prettier-eslint-cli": "^4.7.0",
     "prop-types": "^15.6.2",
     "randomcolor": "^0.5.3",
-    "react": "^16.2.0",
+    "react": "^17.0.2",
     "react-dom": "^16.2.0",
     "react-router-dom": "^4.1.1",
     "react-testing-library": "^6.0.3",
