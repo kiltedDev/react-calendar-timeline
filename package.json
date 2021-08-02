@@ -1,5 +1,5 @@
 {
-  "name": "react-calendar-timeline",
+  "name": "@kiltedDev/react-calendar-timeline",
   "version": "0.27.0",
   "description": "react calendar timeline",
   "main": "lib/index.js",
