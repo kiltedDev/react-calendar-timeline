@@ -1,7 +1,7 @@
 {
   "name": "@kilteddev/react-calendar-timeline",
-  "version": "0.27.0",
-  "description": "react calendar timeline",
+  "version": "0.1.0",
+  "description": "updated react calendar timeline",
   "main": "lib/index.js",
   "scripts": {
     "build": "npm run build:lib",
@@ -18,13 +18,17 @@
     "lib",
     "src"
   ],
-  "homepage": "https://github.com/namespace-ee/react-calendar-timeline",
+  "homepage": "https://github.com/kiltedDev/react-calendar-timeline",
   "repository": {
     "type": "git",
-    "url": "https://github.com/namespace-ee/react-calendar-timeline.git"
+    "url": "https://github.com/kiltedDev/react-calendar-timeline.git"
   },
-  "author": "Marius Andra <marius.andra@gmail.com>",
+  "author": "Thomas Wilson <kilted.dev@gmail.com>",
   "contributors": [
+    {
+      "name": "Marius Andra",
+      "email": "marius.andra@gmail.com"
+    },
     {
       "name": "Stanisław Chmiela",
       "email": "sjchmiela@gmail.com"
@@ -62,7 +66,8 @@
     "react",
     "reactjs",
     "react-component",
-    "timeline"
+    "timeline",
+    "update"
   ],
   "standard": {
     "parser": "babel-eslint"
