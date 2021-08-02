@@ -39,9 +39,7 @@ const config = {
     alias: {
       '~': path.join(__dirname, './demo'),
       'react-calendar-timeline': path.join(__dirname, './src'),
-      '@kilteddev/react-calendar-timeline': path.join(__dirname, './src'),
       'react-calendar-timeline-css': path.join(
-      '@kilteddev/react-calendar-timeline-css': path.join(
         __dirname,
         './src/lib/Timeline.scss'
       )
