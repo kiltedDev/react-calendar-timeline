@@ -1,6 +1,6 @@
 {
   "name": "@kilteddev/react-calendar-timeline",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "updated react calendar timeline",
   "main": "lib/index.js",
   "scripts": {
